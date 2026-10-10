@@ -202,14 +202,6 @@ Contributions are welcome! Here's how you can help:
 - Mobile touch interactions could be improved.
 
 ---
-
-## 👨‍💻 Author
-
-**Abhimanyu Sharma**
-- **GitHub**: [@abhimnyu09](https://github.com/abhimnyu09)
-- **LinkedIn**: [Abhimanyu Sharma](https://www.linkedin.com/in/abhimanyu-sharma-2b2130292)
-
----
 ## 🙏 Acknowledgments
 
 - [Next.js](https://nextjs.org/) - React framework
